@@ -1,0 +1,28 @@
+table{
+		
+		width:50%;
+		text-align: center;
+	}
+	td {
+  		border:2px solid red;
+		  text-align: center;
+	}
+	p{
+	color:green;
+	font-size:30px;
+	background-color:pink;
+}
+h1 {
+  color: black;
+  text-align: center;
+  font-size: 40px;
+}
+p {
+  font-family: verdana;
+  font-size: 20px;
+  text-align: center;
+  color:black;
+}
+body {
+  background-color: lightblue;
+}
